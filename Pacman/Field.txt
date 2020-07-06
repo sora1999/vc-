@@ -1,0 +1,27 @@
+#####################\
+#ooooooooo#ooooooooo#\
+#o###o###o#o###o###o#\
+#0  #o# #o#o  #o# #0#\
+#o###o# #o#o###o# #o#\
+#o#  o# #ooo#  o# #o#\
+#o###o###o#o###o###o#\
+#ooooooooo#ooooooooo#\
+#o###o###o#o###o###o#\
+#####o###o#o###o#####\
+    #o#   r   #o#    \
+    #o# ##### #o#    \
+#####o# #bpy# #o#####\
+     o  #   #  o     \
+#####o# ##### #o#####\
+    #o#       #o#    \
+    #o# ##### #o#    \
+#####o# ##### #o#####\
+#ooooooooo#ooooooooo#\
+#o###o###o#o###o###o#\
+#0oo#ooo#o@o#ooo#oo0#\
+###o#o#o#o#o#o#o#o###\
+###o#o#o#o#o#o#o#o###\
+#ooooo#ooo#ooo#ooooo#\
+#o#####o#####o#####o#\
+#ooooooooooooooooooo#\
+#####################\
