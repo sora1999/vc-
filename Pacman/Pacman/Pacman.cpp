@@ -49,10 +49,10 @@ int main() {
 				//フィールドのモンスター取得
 				switch (c) {
 				case '@': monster = MONSTER_PAC;    break;
-				case 'r': monster = MONSTER_ENEMY1;	break;
-				case 'b': monster = MONSTER_ENEMY2; break;
-				case 'p': monster = MONSTER_ENEMY3; break;
-				case 'y': monster = MONSTER_ENEMY4; break;
+				case '1': monster = MONSTER_ENEMY1;	break;
+				case '2': monster = MONSTER_ENEMY2; break;
+				case '3': monster = MONSTER_ENEMY3; break;
+				case '4': monster = MONSTER_ENEMY4; break;
 				}
 				if (monster >= 0) {
 					monsters[monster].x = x;

@@ -12,7 +12,7 @@ void gameClear() {
 
 	//ファイルオープン
 	FILE* fp;
-	errno_t error = fopen_s(&fp, "結果.txt", "w");
+	errno_t error = fopen_s(&fp, "Result.txt", "w");
 
 	//ファイル書き込み
 	char s_buf[BUFFSIZE];
